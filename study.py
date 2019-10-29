@@ -1,4 +1,4 @@
-# Типы данных:
+ # Типы данных:
 #int (integer )
 #number = 5
 #Float
